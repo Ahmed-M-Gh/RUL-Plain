@@ -1,0 +1,10 @@
+# Data file (too large/ Regenerable from raw)
+data/raw/*
+data/cleaned/*
+data/preprocessed/*
+
+
+# python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
