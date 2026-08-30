@@ -2,7 +2,8 @@
 data/raw/*
 data/cleaned/*
 data/preprocessed/*
-
+*.csv
+*.h5
 
 # python cache
 __pycache__/
